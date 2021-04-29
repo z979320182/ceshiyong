@@ -1,7 +1,4 @@
 d
-<<<<<<< HEAD
 dasddsf
 asdasdsdf
-=======
->>>>>>> 添加
 asdsf
